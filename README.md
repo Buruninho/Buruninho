@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" src="https://raw.githubusercontent.com/buruninho/github-stats-transparent/output/generated/languages.svg" alt="buruninho"/>
+
+<img align="left" src="https://raw.githubusercontent.com/buruninho/github-stats-transparent/output/generated/overview.svg" alt="buruninho" />
